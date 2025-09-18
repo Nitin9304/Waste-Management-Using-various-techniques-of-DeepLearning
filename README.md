@@ -4,3 +4,4 @@ Waste management is a critical component of sustainable urban development, envir
 ![alt_image](https://github.com/Nitin9304/Waste-Management-Using-various-techniques-of-DeepLearning/blob/58ad5640380fc081d7910a3aca0abeb152aff690/156713-004-96897BF4.webp) ![image_alt](https://github.com/Nitin9304/Waste-Management-Using-various-techniques-of-DeepLearning/blob/c483cd8e51675d7258e0fd283556d96ba6d94d64/Batteries.jpg)
 # Some Images Data of Batteries.
 
+![alt_image](https://github.com/Nitin9304/Waste-Management-Using-various-techniques-of-DeepLearning/blob/14661716ebf29868559db5f8a19241bc5720e140/istockphoto-1022715774-612x612.jpg)
